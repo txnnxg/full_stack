@@ -19,7 +19,8 @@
 
     <div class="container">
         <section id="home" class="home">academia popular fit</section>
-        <section id="about" class="about"><a href="http://localhost/full_stack/tela-de-login.php" style="text-decoration: none; color:aliceblue">Login</a></section>
+        < !-- "http://localhost/full_stack/tela-de-login.php"(Link original da tela de login) -- >
+        <section id="about" class="about"><a href="https://fullstack-production-80ef.up.railway.app/tela-de-login.php" style="text-decoration: none; color:aliceblue">Login</a></section>
         <section id="contact" class="contact"><a href="http://localhost/full_stack/formulario.php" style="text-decoration: none; color:aliceblue">Register</a></section>
     </div>
 </body>
