@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Academia popular fit</title>
     <link rel="stylesheet" href="estilos/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
@@ -12,7 +12,7 @@
     <header class="header">
         <nav class="navbar">
             <a href="#home"><i class="fas fa-home"></i><span>Home</span></a>
-            <a href="#about"><i class="fas fa-user"></i><span>login</span></a>
+            <a href="https://fullstack-production-80ef.up.railway.app/tela-de-login.php"><i class="fas fa-user"></i><span>login</span></a>
             <a href="#contact"><i class="fas fa-contact-card"></i><span>Register</span></a>
         </nav>
     </header>
