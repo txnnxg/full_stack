@@ -12,9 +12,9 @@
     <header class="header">
         <nav class="navbar">
             <a href="#home"><i class="fas fa-home"></i><span>Home</span></a>
-            < !-- "http://localhost/full_stack/tela-de-login.php"(Link original da tela de login) -- >
+            <!-- "http://localhost/full_stack/tela-de-login.php"(Link original da tela de login) -->
             <a href="https://fullstack-production-80ef.up.railway.app/tela-de-login.php"><i class="fas fa-user"></i><span>login</span></a>
-            < !-- "http://localhost/full_stack/formulario.php"(Link original da tela de registro) -- >
+            <!-- "http://localhost/full_stack/formulario.php"(Link original da tela de registro) -->
             <a href="https://fullstack-production-80ef.up.railway.app/formulario.php"><i class="fas fa-contact-card"></i><span>Register</span></a>
         </nav>
     </header>
